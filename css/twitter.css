@@ -1,0 +1,15 @@
+body {
+  padding-top: 60px;
+  background-color: white;
+}
+
+.navbar {
+  background-color: #f2f2f2;
+}
+
+.retweet-like-bars hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  /*the color of hr is set by its border color*/
+  border-top: 1px solid lightgrey;
+}
